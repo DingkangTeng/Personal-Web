@@ -159,6 +159,14 @@ window.onload = function(){
             replace(keys[i], "综合收集的数据和发现。起草调查报告。", 
                 "Synthesized the collected data and findings. Drafted a detailed, evidence-based report."
             );
+            replace(keys[i], "2025/12-至今", "12/2025-Present");
+            replace(keys[i], "香港理工大学", "Kong Polytechnic University");
+            replace(keys[i], "研究主题为智慧城市的技术创新、基础设施规划和政策制定", 
+                "Focusing on Technology innovation, Infrastructure planning and Policy making in Smart Cities"
+            );
+            replace(keys[i], "收集并分析可视化全球电动汽车市场、政策和充电基础设施，并提供可视化成果",
+                "Collecting, analyzing, visualizing on the electric vehicle market, policy and charging infrastructure across the globe."
+            );
             replace(keys[i], "主要成果", "PUBLICATION");
             replace(keys[i], "工作经验", "WORKING EXPERIENCE");
             replace(keys[i], "永业行土地房地产资产评估有限公司", "Realhom Land Real Estate Assets Appraisal Co., Ltd");
@@ -256,7 +264,7 @@ window.onload = function(){
             replace(barKeys[j], "工作经验", "WORKING");
             replace(barKeys[j], "项目经验", "PROJECTS");
             replace(barKeys[j], "活动荣誉", "ACTIVITIES & HONORS");
-            replace(barKeys[j], "快捷方式", "LINKS")
+            replace(barKeys[j], "快捷方式", "LINKS");
         }
     };
 
