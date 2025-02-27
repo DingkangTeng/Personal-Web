@@ -165,7 +165,7 @@ window.onload = function(){
                 "Focusing on Technology innovation, Infrastructure planning and Policy making in Smart Cities"
             );
             replace(keys[i], "收集并分析可视化全球电动汽车市场、政策和充电基础设施，并提供可视化成果",
-                "Collecting, analyzing, visualizing on the electric vehicle market, policy and charging infrastructure across the globe."
+                "Collecting, analyzing, visualizing the electric vehicle market, policy and charging infrastructure across the globe."
             );
             replace(keys[i], "主要成果", "PUBLICATION");
             replace(keys[i], "工作经验", "WORKING EXPERIENCE");
