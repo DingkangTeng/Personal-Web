@@ -161,11 +161,14 @@ window.onload = function(){
             );
             replace(keys[i], "2025/12-至今", "12/2025-Present");
             replace(keys[i], "香港理工大学", "Kong Polytechnic University");
-            replace(keys[i], "研究主题为智慧城市的技术创新、基础设施规划和政策制定", 
+            replace(keys[i], "研究主题：智慧城市的技术创新、基础设施规划和政策制定", 
                 "Focusing on Technology innovation, Infrastructure planning and Policy making in Smart Cities"
             );
-            replace(keys[i], "收集并分析可视化全球电动汽车市场、政策和充电基础设施，并提供可视化成果",
-                "Collecting, analyzing, visualizing the electric vehicle market, policy and charging infrastructure across the globe."
+            replace(keys[i], "在全球范围内开展与充电基础设施相关的研究项目，并撰写研究论文",
+                "Conduct research projects related to charging infrastructure across the globe and author research papers."
+            );
+            replace(keys[i], "为研究小组收集、分析、可视化成果",
+                "Collecting, analyzing, visualizing the data for the research group."
             );
             replace(keys[i], "主要成果", "PUBLICATION");
             replace(keys[i], "工作经验", "WORKING EXPERIENCE");
