@@ -172,8 +172,13 @@ window.onload = function(){
             );
             replace(keys[i], "主要成果", "PUBLICATION");
             replace(keys[i], "工作经验", "WORKING EXPERIENCE");
+            replace(keys[i], "2025/09-2025/12", "09/2025-12/2025");
+            replace(keys[i], "助教（LSGI3213-智能交通系统）", "Teaching Assistant, Intelligent Transportation Systems (LSGI3213)");
+            replace(keys[i], "主要负责协助每周的实验课，为数据分析和仿真建模软件提供指导。",
+                "Facilitated weekly lab sessions, providing hands-on guidance for data analysis and simulation modeling software."
+            );
             replace(keys[i], "永业行土地房地产资产评估有限公司", "Realhom Land Real Estate Assets Appraisal Co., Ltd");
-            replace(keys[i], "2018/10—2024/06", "10/2018-06/2024");
+            replace(keys[i], "2018/10-2024/06", "10/2018-06/2024");
             replace(keys[i], "技术经理", "Technical Manager");
             replace(keys[i], "主要负责自然资源调查和评估中的技术工作，并为部门提供部分IT支持。包括数据分析、数据库建设、地图绘制和部门GIS培训。", 
                 "Managed advanced engineering tasks with focus on natural resource survey and evaluation, IT support, and led geography information initiatives including data analysis, database construction, mapping, and GIS training."
@@ -185,7 +190,7 @@ window.onload = function(){
                 "Spearheaded the secondary development of an automated calculation and processing tool in ArcGIS designed to enhance efficiency and accuracy within natural resource projects."
             );
             replace(keys[i], "项目经验", "PROJECT EXPERIENCE");
-            replace(keys[i], "2023/06—2024/06", "06/2023—06/2024");
+            replace(keys[i], "2023/06-2024/06", "06/2023-06/2024");
             replace(keys[i], "国有农用地基准地价及土地定级", "Land Classification & Standard Price in Collective Agricultural Land");
             replace(keys[i], "项目负责人", "Project Leader");
             replace(keys[i], "主要负责黄石市城区（含开发区·铁山区）公示地价体系更新项目中的国有农用地部分。工作内容主要包括空间分析、土地定级、土地估价和向部门提供与GIS相关的技术支持等。", 
